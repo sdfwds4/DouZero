@@ -176,7 +176,7 @@ python3 generate_eval_data.py
 *   `--output`: pickle数据存储路径
 *   `--num_games`: 生成数据的游戏局数，默认值 10000
 
-## 第2步：自我对弈
+### 第2步：自我对弈
 ```
 python3 evaluate.py
 ```
